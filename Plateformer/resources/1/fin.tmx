@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="10" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="1">
+ <tileset firstgid="1" source="53x30_1 - Copie.tsx"/>
+ <tileset firstgid="154" source="53x30_1.tsx"/>
+ <tileset firstgid="307" source="Background.tsx"/>
+ <tileset firstgid="32107" source="Jungle_terrain.tsx"/>
+ <tileset firstgid="33787" source="objects.tsx"/>
+ <layer id="10" name="collisions" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBQMd/CwdnhgAJ/nUJqwBAAA
+  </data>
+ </layer>
+ <layer id="1" name="Background" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACg3U97MIBBwA8G92JCsr2SNle898j2eehCgKSfbIvjNSpLLKnolyR2VlRGVVhGTc2ZvsXba4oyI+P3z+hU/uMhF5yMuz5OM58lOAghTiKte4zg1ucovb/M0d7rKhbMRGNvEbm/mdLWxlG9uZVi5iOp8xg8+ZySy+4Etm0618RHfeoQc96UVv+tCXfiRViEimBjVJoRa1qUNd6pGlYkRWspGdHDxDTnKRmzyc5wIXucRl/uQvrnCVa6xJiFjLT/zML6xjPb+ygY2MS4wYzwQmMonJTGEq05hOu0oR7elARzrRmS50pRvdSagckUglKlOFqlSjOkkkk75KRAaeJCOZeIrMPE0WsnKcE5zkFKc5w1nOcZ4LLK8asYLv+YEfWckqVrOGtYyoFjGSUYzmEz5lDGMZx3haVo9oRWvepA1v0Za3aUd7SiVFlKYMZSlHeSpQkQQSeUQkRzxBKlKThrSkIz0ZOMBBDnGYIxzlGH9wnBMsrBGxiG9ZzBKWsozvWM4KhtSMGMoHDONDPuJjhjOCkTRNiWjGq7xGc1rwOm/QklYUrRVRjOKU4HlK8gIvUorS3OM+//Av//GAh/zPI6J2xA52sovd7GEv+9jPAQ4yp07EXL7ia75hHvNZwEIW0b9uxAAGMoh3Gcx7vM8QhtKgXsRLNORlGtGYJrxCU5qRr753yE8BClKIwhShKMV4DBSELPSwBAAA
+  </data>
+ </layer>
+ <layer id="6" name="Background2" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+ <layer id="7" name="Water" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+ <layer id="8" name="Plateformes" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBQMd3CnloHhLhTfQaPvAfF9IH4AxGJ1hHEbUN0eIvA+IP5CBP4GxDp1hLEeEAMA/lUYT7AEAAA=
+  </data>
+ </layer>
+ <layer id="9" name="Foreground" width="10" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBTQApi3MDBYALElEFu14FYXCJQLAuJgIA5BUucOZHsg8bOB7BwgzgXiPCTxRCA7CYnfCmS3AXE7EHfgsXcoAgAiEm2bsAQAAA==
+  </data>
+ </layer>
+</map>
